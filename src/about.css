@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.aboutpage{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(back_image.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.noth{
+    height: 250px;
+}
+.about {
+    height: 200px;
+    width: 280px;
+    margin-left: 500px;
+    
+}
+.about p{
+    text-align: justify; 
+  -moz-text-align-last: justify;
+  text-align-last: justify;
+  color: #fff;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.hr1,.hr2{
+    width: 160px;
+    margin-left:557px ;
+    border: 2px solid #009688;
+}
+
+
