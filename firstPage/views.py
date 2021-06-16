@@ -22,7 +22,7 @@ def scoreJson(request):
     return JsonResponse({'score':score})
 
 def scoreFile(request):
-    return JsonResponse('oumaymaaa')
+    return JsonResponse('')
 
 
 
